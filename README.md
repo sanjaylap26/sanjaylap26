@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Sanjay
 
-<!--
-**sanjaylap26/sanjaylap26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.E Computer Science (AI & ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Artificial Intelligence, Machine Learning and Generative AI
+
+💻 Skilled in Python, Java and C
+
+🚀 Building AI Projects
+
+🚂 Working on AI Railway Gate Fault Detection System
+
+🔗 Developing Blockchain-based Digital Identity System
+
+📚 Learning Full Stack Development
+
+🎯 Looking for Software and AI Internship Opportunities
